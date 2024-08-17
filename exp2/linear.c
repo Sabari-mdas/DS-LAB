@@ -17,7 +17,7 @@ void main()
 		if(ar[i]==sr)
 		{
 			flag=1;
-			printf("Element is found at %d",i+1);
+			printf("Element is found at %d",i);
 		}
 		}
 	if(flag==0)
